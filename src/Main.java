@@ -9,6 +9,11 @@ public class Main {
         System.out.println("Hello World");
         System.out.println("Hi I am snehil");
         System.out.println("Hi i am learning java again");
+        int num1 = 6;
+        int num2 = 5;
+        int num3 = 7;
+        int sum = num1 + num2 + num3;
+        System.out.println(sum);
 
     }
 }
