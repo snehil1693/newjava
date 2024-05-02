@@ -17,12 +17,17 @@ public class CWH_Ch1_PS {
 //
 //            System.out.println(cgpa);
 
-            System.out.println(" What is your name ?");
+//            System.out.println(" What is your name ?");
+//            Scanner sc = new Scanner(System.in);
+//
+//            String name = sc.next();
+//
+//            System.out.println("Hello " + name + " How are you?");
+
+            System.out.println("Enter your number");
             Scanner sc = new Scanner(System.in);
+            System.out.println(sc.hasNextInt());
 
-            String name = sc.next();
-
-            System.out.println("Hello " + name + " How are you?");
 
 
 
