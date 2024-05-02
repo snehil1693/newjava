@@ -7,6 +7,7 @@ public class CWH_04_literals {
         char ch = 'A';
         float f1 = 5.6f;
         double d1 = 4.660;
+        boolean a = true;
         System.out.println(age);
 
     }
